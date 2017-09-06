@@ -1,0 +1,17 @@
+C:\Users\Ivan\source\repos\SwitchBetweenActivities\SwitchBetweenActivities\bin\Debug\SwitchBetweenActivities.dll
+C:\Users\Ivan\source\repos\SwitchBetweenActivities\SwitchBetweenActivities\bin\Debug\SwitchBetweenActivities.pdb
+C:\Users\Ivan\source\repos\SwitchBetweenActivities\SwitchBetweenActivities\bin\Debug\SwitchBetweenActivities.SwitchBetweenActivities.apk
+C:\Users\Ivan\source\repos\SwitchBetweenActivities\SwitchBetweenActivities\bin\Debug\SwitchBetweenActivities.SwitchBetweenActivities-Signed.apk
+C:\Users\Ivan\source\repos\SwitchBetweenActivities\SwitchBetweenActivities\obj\Debug\SwitchBetweenActivities.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\source\repos\SwitchBetweenActivities\SwitchBetweenActivities\obj\Debug\SwitchBetweenActivities.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\SwitchBetweenActivities\SwitchBetweenActivities\obj\Debug\SwitchBetweenActivities.dll
+C:\Users\Ivan\source\repos\SwitchBetweenActivities\SwitchBetweenActivities\obj\Debug\SwitchBetweenActivities.pdb
+C:\Users\Ivan\source\repos\SwitchBetweenActivities\SwitchBetweenActivities\obj\Debug\android\bin\SwitchBetweenActivities.SwitchBetweenActivities.apk
+C:\Users\Ivan\source\repos\SwitchBetweenActivities\SwitchBetweenActivities\obj\Debug\res\layout\recvactivity.xml
+C:\Users\Ivan\source\repos\SwitchBetweenActivities\SwitchBetweenActivities\obj\Debug\res\layout\main.xml
+C:\Users\Ivan\source\repos\SwitchBetweenActivities\SwitchBetweenActivities\obj\Debug\res\values\strings.xml
+C:\Users\Ivan\source\repos\SwitchBetweenActivities\SwitchBetweenActivities\obj\Debug\res\drawable\icon.png
+C:\Users\Ivan\source\repos\SwitchBetweenActivities\SwitchBetweenActivities\obj\Debug\R.cs.flag
+C:\Users\Ivan\source\repos\SwitchBetweenActivities\SwitchBetweenActivities\obj\Debug\uploadflags.txt
+C:\Users\Ivan\source\repos\SwitchBetweenActivities\SwitchBetweenActivities\bin\Debug\SwitchBetweenActivities.dll.mdb
+C:\Users\Ivan\source\repos\SwitchBetweenActivities\SwitchBetweenActivities\obj\Debug\android\assets\SwitchBetweenActivities.dll.mdb
